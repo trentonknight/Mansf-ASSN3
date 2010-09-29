@@ -1,0 +1,11 @@
+﻿Build started 9/28/2010 8:02:29 PM.
+     1>Project "c:\Users\fincen adim\documents\visual studio 2010\Projects\MansfASSN3-wk4\MansfASSN3-wk4\MansfASSN3-wk4.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "MansfASSN3-wk4.cpp"
+         Skipping... (no relevant changes detected)
+         MansfASSN3-wk4.cpp
+     1>Done Building Project "c:\Users\fincen adim\documents\visual studio 2010\Projects\MansfASSN3-wk4\MansfASSN3-wk4\MansfASSN3-wk4.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.85

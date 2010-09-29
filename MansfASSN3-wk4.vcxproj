@@ -82,7 +82,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MansfASSN3-wk4.cpp" />
-    <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
